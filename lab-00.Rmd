@@ -47,7 +47,7 @@ p1
 ```
 
 
-*Remove this text (including the stars), and add your answer for Exercise 18 here.*
+This graph shows each person (denoted by their username on the x-axis) compared to their favourite number (1-10 on y-axis), with each bar being their favourite colour.
 
 ### Exercises 19
 
