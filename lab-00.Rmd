@@ -54,12 +54,12 @@ This graph shows each person (denoted by their username on the x-axis) compared 
 Change the text of the plot title and axis labels.
 
 ```{r labelled-bar-plot}
-p1 + labs(x = "Insert text here", 
-          y = "Insert text here",
-          title = "Insert text here")
+p1 + labs(x = "GitHub Username", 
+          y = "Favourite Number 1-10",
+          title = "Team Information")
 ```
 
-*Remove this text (including the stars), and add your answer for Exercise 19 here.*
+I think labs() is a command to label a graph plot.
 
 ### Exercise 20
 
