@@ -59,7 +59,7 @@ p1 + labs(x = "GitHub Username",
           title = "Team Information")
 ```
 
-I think labs() is a command to label a graph plot.
+I think labs() is a command to label a graph
 
 ### Exercise 20
 
@@ -69,4 +69,4 @@ p2 <- ggplot(team_data, aes(x = hobby)) +
 p2
 ```
 
-*Remove this text (including the stars) and add your answer for Exercise 20 here.*
+This data could be better dispalyed if you were to display it as a list of hobbys, or into a grouped table, classifing each hobby as a sport, musical, other, etc.
